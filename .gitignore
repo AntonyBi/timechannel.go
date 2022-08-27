@@ -19,3 +19,14 @@
 
 # Go workspace file
 go.work
+
+# Project
+*.key
+*.cert
+*.log
+bin/
+
+# IDE
+.vscode/
+.idea/
+*.swp
